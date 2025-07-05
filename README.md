@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/nano-react-app/nano-react-app).
@@ -54,3 +55,6 @@ Use the following scripts for deployment:
 ```
 
 Then follow the normal procedure in GitHub Pages and select the `gh-pages` branch.
+=======
+# quiz__App
+>>>>>>> bfb81d303d3c2f3c9bb4de149dbbb2f9ecb7c41d
