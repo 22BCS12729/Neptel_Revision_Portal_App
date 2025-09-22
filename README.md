@@ -6,7 +6,7 @@ A fully functional Quiz Web Application built using **React.js**, with custom ro
 
 ## 🚀 Live Demo
 
-👉https://quizneptelrevportal.netlify.app/about
+👉https://app.netlify.com/projects/quizneptelrevportal/overview
 
 
 ---
